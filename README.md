@@ -1,5 +1,7 @@
 # Genesis DB MCP Server (Preview)
 
+**Preview Release:** This is an early version of the Genesis DB MCP Server. Features and API structure may change before the stable 1.0 release.
+
 A Model Context Protocol (MCP) server that provides AI clients access to Genesis DB events. This server enables natural language queries against your Genesis DB instance, allowing questions like "How many users are in the system?" or "How many orders did we have last week?"
 
 ## Installation

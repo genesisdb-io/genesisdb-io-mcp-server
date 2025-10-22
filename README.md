@@ -12,7 +12,7 @@ A Model Context Protocol (MCP) server that provides AI clients access to Genesis
 
 [Download Genesis DB MCP Server (Preview): Linux (AMD64)](https://raw.githubusercontent.com/genesisdb-io/genesisdb-io-mcp-server/main/build/0.0.1/linux/amd64/genesisdb-io-mcp-server-0.0.1-linux-amd64.tar.gz)
 
-[Download Genesis DB MCP Server (Preview): Linux (ARM64)](https://raw.githubusercontent.com/genesisdb-io/genesisdb-io-mcp-server/main/build/0.0.1/https://linux/arm64/genesisdb-io-mcp-server-0.0.1-linux-arm64.tar.gz)
+[Download Genesis DB MCP Server (Preview): Linux (ARM64)](https://raw.githubusercontent.com/genesisdb-io/genesisdb-io-mcp-server/main/build/0.0.1/linux/arm64/genesisdb-io-mcp-server-0.0.1-linux-arm64.tar.gz)
 
 
 ### Configuring with Claude Desktop

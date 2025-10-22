@@ -6,13 +6,21 @@ A Model Context Protocol (MCP) server that provides AI clients access to Genesis
 
 ### Download the MCP Server
 
-[Download Genesis DB MCP Server (Preview)](https://)
+[Download Genesis DB MCP Server (Preview): macOS (Apple Silicon)](https://raw.githubusercontent.com/genesisdb-io/genesisdb-io-mcp-server/main/build/0.0.1/darwin/arm64/genesisdb-io-mcp-server-0.0.1-darwin-arm64.tar.gz)
+
+[Download Genesis DB MCP Server (Preview): macOS (Intel)](https://raw.githubusercontent.com/genesisdb-io/genesisdb-io-mcp-server/main/build/0.0.1/darwin/amd64/genesisdb-io-mcp-server-0.0.1-darwin-amd64.tar.gz)
+
+[Download Genesis DB MCP Server (Preview): Linux (AMD64)](https://raw.githubusercontent.com/genesisdb-io/genesisdb-io-mcp-server/main/build/0.0.1/linux/amd64/genesisdb-io-mcp-server-0.0.1-linux-amd64.tar.gz)
+
+[Download Genesis DB MCP Server (Preview): Linux (ARM64)](https://raw.githubusercontent.com/genesisdb-io/genesisdb-io-mcp-server/main/build/0.0.1/https://linux/arm64/genesisdb-io-mcp-server-0.0.1-linux-arm64.tar.gz)
+
 
 ### Configuring with Claude Desktop
 
 Add this server to your Claude Desktop configuration file:
 
 **macOS**: `~/Library/Application Support/Claude/claude_desktop_config.json`
+
 **Windows**: `%APPDATA%\Claude\claude_desktop_config.json`
 
 ```json

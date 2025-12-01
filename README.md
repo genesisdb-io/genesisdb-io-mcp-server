@@ -1,20 +1,20 @@
-# Genesis DB MCP Server (Preview)
+# GenesisDB MCP Server (Preview)
 
-**Preview Release:** This is an early version of the Genesis DB MCP Server. Features and API structure may change before the stable 1.0 release.
+**Preview Release:** This is an early version of the GenesisDB MCP Server. Features and API structure may change before the stable 1.0 release.
 
-A Model Context Protocol (MCP) server that provides AI clients access to Genesis DB events. This server enables natural language queries against your Genesis DB instance, allowing questions like "How many users are in the system?" or "How many orders did we have last week?"
+A Model Context Protocol (MCP) server that provides AI clients access to GenesisDB events. This server enables natural language queries against your GenesisDB instance, allowing questions like "How many users are in the system?" or "How many orders did we have last week?"
 
 ## Installation
 
 ### Download the MCP Server
 
-[Download Genesis DB MCP Server (Preview): macOS (Apple Silicon)](https://raw.githubusercontent.com/genesisdb-io/genesisdb-io-mcp-server/main/build/0.0.1/darwin/arm64/genesisdb-io-mcp-server-0.0.1-darwin-arm64.tar.gz)
+[Download GenesisDB MCP Server (Preview): macOS (Apple Silicon)](https://raw.githubusercontent.com/genesisdb-io/genesisdb-io-mcp-server/main/build/0.0.1/darwin/arm64/genesisdb-io-mcp-server-0.0.1-darwin-arm64.tar.gz)
 
-[Download Genesis DB MCP Server (Preview): macOS (Intel)](https://raw.githubusercontent.com/genesisdb-io/genesisdb-io-mcp-server/main/build/0.0.1/darwin/amd64/genesisdb-io-mcp-server-0.0.1-darwin-amd64.tar.gz)
+[Download GenesisDB MCP Server (Preview): macOS (Intel)](https://raw.githubusercontent.com/genesisdb-io/genesisdb-io-mcp-server/main/build/0.0.1/darwin/amd64/genesisdb-io-mcp-server-0.0.1-darwin-amd64.tar.gz)
 
-[Download Genesis DB MCP Server (Preview): Linux (AMD64)](https://raw.githubusercontent.com/genesisdb-io/genesisdb-io-mcp-server/main/build/0.0.1/linux/amd64/genesisdb-io-mcp-server-0.0.1-linux-amd64.tar.gz)
+[Download GenesisDB MCP Server (Preview): Linux (AMD64)](https://raw.githubusercontent.com/genesisdb-io/genesisdb-io-mcp-server/main/build/0.0.1/linux/amd64/genesisdb-io-mcp-server-0.0.1-linux-amd64.tar.gz)
 
-[Download Genesis DB MCP Server (Preview): Linux (ARM64)](https://raw.githubusercontent.com/genesisdb-io/genesisdb-io-mcp-server/main/build/0.0.1/linux/arm64/genesisdb-io-mcp-server-0.0.1-linux-arm64.tar.gz)
+[Download GenesisDB MCP Server (Preview): Linux (ARM64)](https://raw.githubusercontent.com/genesisdb-io/genesisdb-io-mcp-server/main/build/0.0.1/linux/arm64/genesisdb-io-mcp-server-0.0.1-linux-arm64.tar.gz)
 
 
 ### Configuring with Claude Desktop
